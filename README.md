@@ -9,7 +9,7 @@ router config:
 Router 0
 en
 in conofgure terminal --conf t
-# int g0/0/0 <interface 1>
+ int g0/0/0 <interface 1>
 ip address <ip address > <subnetmask>
 no shutdown
 exit
